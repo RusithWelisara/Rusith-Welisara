@@ -32,8 +32,7 @@ I design and build practical systems that combine software intelligence with rea
 ---
 
 ## Online Presence
-- Portfolio: https://rusithwelisara.vercel.app  
-- GitHub Pages: https://rusithwelisara.github.io  
+- Portfolio: https://rusithwelisara.vercel.app   
 
 ---
 
