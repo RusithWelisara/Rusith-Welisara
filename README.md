@@ -1,4 +1,4 @@
-# Rusith Welisara
+# Rusith Welisara 
 
 AI systems builder focused on robotics, autonomous systems, and offline-first artificial intelligence.
 
